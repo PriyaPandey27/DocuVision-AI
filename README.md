@@ -13,7 +13,7 @@ When you upload a document, DocuVision AI breaks it apart, embeds both the text 
 - **Local RAG Pipeline:** Leverages HuggingFace models (`multi-qa-mpnet-base-cos-v1`, `gemma-2b-it`) connected locally via Transformers to process data securely.
 - **Cross-Lingual Support:** Features built-in structural support for both English and Japanese document structures and respective embedding models.
 - **Chat Export & History Management:** A clean sidebar interface allows you to clear conversation history or export your entire chat transcript for future reference.
-- 
+
 ## 🛠️ Tech Stack
 - **Frontend / UI:** [Streamlit](https://streamlit.io/)
 - **Embeddings & Vector Search:** `sentence-transformers`, `Annoy (Approximate Nearest Neighbors)`
