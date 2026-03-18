@@ -1,6 +1,6 @@
 # DocuVision AI - Intelligent Document Assistant 🧠
 
-Welcome to **DocuVision AI**, my personal portfolio project dedicated to exploring multimodal Document Intelligence. This application allows users to upload PDF documents, intelligently parse their text and images, and query the entire document naturally using a Large Language Model (LLM).
+Welcome to **DocuVision AI**, A project dedicated to exploring multimodal Document Intelligence. This application allows users to upload PDF documents, intelligently parse their text and images, and query the entire document naturally using a Large Language Model (LLM).
 
 The core objective of this project was to understand exactly how Retrieval-Augmented Generation (RAG) applications work behind the scenes, specifically going beyond just text and incorporating multi-modal context (images and charts within PDFs). 
 
