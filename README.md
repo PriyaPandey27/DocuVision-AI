@@ -29,7 +29,7 @@ When you upload a document, DocuVision AI breaks it apart, embeds both the text 
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/PriyaPandey27/DocuVision-AI>
+   git clone https://github.com/PriyaPandey27/DocuVision-AI
    cd DocuVision AI
    ```
 
@@ -40,15 +40,12 @@ When you upload a document, DocuVision AI breaks it apart, embeds both the text 
 
 3. Setup your Environment Variables:
    Set your HuggingFace token in your terminal environment so the models can download:
-   ```bash
-   # Windows (PowerShell)
-   $env:HF_TOKEN=""
-   
-   # Mac/Linux
-   export HF_TOKEN=""
-   
-
+  
 4. Run the Streamlit App:
    ```bash
    streamlit run app.py
    ```
+
+Important Notes:
+Remember to install PyTorch with CUDA support on your device as per the official PyTorch installation instructions.
+Additional Considerations: For enhanced performance and scalability, consider using a GPU-accelerated environment. Explore advanced question-answering techniques to improve the chatbot's accuracy and versatility.
