@@ -29,7 +29,7 @@ When you upload a document, DocuVision AI breaks it apart, embeds both the text 
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/PriyaPandey27/DocuVision-AI>
    cd DocuVision AI
    ```
 
